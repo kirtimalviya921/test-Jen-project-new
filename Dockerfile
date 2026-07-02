@@ -1,2 +1,2 @@
-FROM Ubuntu:24.04
+FROM ubuntu:24.04
 COPY . /var/www/html/
